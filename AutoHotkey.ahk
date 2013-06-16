@@ -13,7 +13,7 @@
 ; and it launches a new Notepad window (or activates an existing one).  To
 ; try out these hotkeys, run AutoHotkey again, which will load this file.
 
-;Testt
+;Testt123
 
 ; Wort markieren und Wikipedia aufrufen
 ^!w::
